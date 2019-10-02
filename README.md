@@ -9,6 +9,7 @@
 *Class* : CSE 'D'
 
 We are explaining a problem from LeetCode in a video 
+
 *Problem* : 785 ***Is Graph Bipartite*** :raised_hands:
 
 The logical and basic principle is explained by my friend, I have explained how the code works. :star:
